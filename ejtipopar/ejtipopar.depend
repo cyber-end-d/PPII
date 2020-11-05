@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542166200 source:d:\weas\mierda\prog\prog2\ejtipopar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
